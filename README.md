@@ -10,7 +10,7 @@ XAMPP can be installed here: https://www.apachefriends.org/
 If you have the source code, skip this step and follow from step 2.
 Clone the program by using the following command:
 
-```git clone https://github.com/iamk3v/IDATG2204-Database-Project.git```
+```git clone https://github.com/iamk3v/idatg2204-Database-Project.git```
 
 ### 2. Install Required Packages
 
