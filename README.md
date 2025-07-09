@@ -1,4 +1,6 @@
+## Contributors
 
+This project was developed as part of the course IDATG2204 in collaboration with four other students: [@Carryman16](https://github.com/Carryman16), [@Coldestfridge](https://github.com/Coldestfridge), [@Eirikalv1](https://github.com/Eirikalv1),  and [@vetlesaust](https://github.com/vetlesaust)
 
 ## Deployment
 
