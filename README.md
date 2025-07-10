@@ -31,9 +31,8 @@ This will install all the required packages by reading the package.json files.
 
 This step requires XAMPP to be installed, and both the MySQL and Apache servers to be started.
 
-    1. Open phpMyAdmin
-
-    2. Copy the contents of the DDL.sql file into the SQL window and execute it
+1. Open phpMyAdmin
+2. Copy the contents of the DDL.sql file into the SQL window and execute it
 
 This will create the tables, set up relations, and add roles, views, and permissions.
 
