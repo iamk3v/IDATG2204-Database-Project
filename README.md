@@ -40,9 +40,8 @@ This will create the tables, set up relations, and add roles, views, and permiss
 
 After running DDL.sql, you need to insert data into the tables.
 
-    1. Copy the contents of insertData.sql
-    
-    2. Paste them into phpMyAdmin and run the script
+1. Copy the contents of insertData.sql    
+2. Paste them into phpMyAdmin and run the script
 
 Make sure that you are using the electromart database.
 
@@ -55,13 +54,14 @@ Terminal 1 – Start the backend:
 cd ElectroMart/ElectroMart-backend
 node server.js
 ```
-    Note: The default backend port is 5000. On macOS, this can conflict with the AirPlay Receiver. You may need to change the port in your code and settings.
-
 Terminal 2 – Start the frontend:
 ```
 cd ElectroMart
 npm run dev
 ```
+> [!NOTE]
+> The default backend port is 5000. On macOS, this can conflict with the AirPlay Receiver. You may need to change the port in your code and settings.
+
 ### 6. Access the Webpage
 
 Once the frontend runs, a localhost URL with a port will be printed in the terminal.
